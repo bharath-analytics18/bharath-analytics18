@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Bharath Sagar
 
-<!--
-**bharath-analytics18/bharath-analytics18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🎓 MCA Student at Kristu Jayanti College
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Bengaluru, India
+
+---
+## 💻 Skills
+
+- SQL
+- Python
+- Excel
+- Power BI
+- Tableau
+- MySQL
+- Pandas
+- NumPy
+
+---
+## 🚀 Projects
+
+- 🏠 Real Estate Price Prediction
+- 📊 E-Commerce Sales Analysis
+- 📈 Adventure Works Dashboard (In Progress)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Data Analytics
+
+---
+
+## 📫 Connect with Me
+
+📧 bharathsagar587@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/bharath-analytics
+
+🔗 GitHub:
+https://github.com/bharath-analytics18
