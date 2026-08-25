@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bharath Sagar
+# Hi 👋, I'm Bharath
 
 ### Aspiring Data Analyst
 
